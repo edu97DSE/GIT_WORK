@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <ram.h>
 
 inte main ()
 {
